@@ -19,7 +19,7 @@ unzip hostplcp.zip -d /home/
 unzip hostinpl-2.zip -d /var/www/
 cd /var/www/HostinPL-master/
 mv * /var/www/
-cd /home/Daemon-master
+cd /home/Daemon-master/
 mv * /home/
 rm hostplcp.zip
 rm hostinpl-2.zip
